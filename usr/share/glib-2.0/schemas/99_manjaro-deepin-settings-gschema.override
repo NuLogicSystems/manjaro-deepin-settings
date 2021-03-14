@@ -1,2 +1,5 @@
 [org.gtk.Settings.FileChooser]
 sort-directories-first=true
+
+[org.onboard]
+show-status-icon=false
