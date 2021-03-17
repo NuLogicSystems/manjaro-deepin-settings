@@ -5,6 +5,5 @@ sort-directories-first=true
 show-status-icon=false
 
 [com.deepin.dde.appearance]
-background-uris=['file:///usr/share/wallpapers/deepin/manjaro-deepin-muser.jpg', 'file:///usr/share/wallpapers/deepin/manjaro-deepin-muser.jpg']
-gtk-theme=deepin-dark
-wallpaper-uris={"Primary\u0026\u00261":"file:///usr/share/wallpapers/deepin/manjaro-deepin-muser.jpg","Primary\u0026\u00262":"file:///usr/share/wallpapers/deepin/manjaro-deepin-muser.jpg"}
+background-uris=['file:///usr/share/wallpapers/deepin/manjaro-rez_deepin.jpg', 'file:///usr/share/wallpapers/deepin/manjaro-rez_deepin.jpg']
+wallpaper-uris={"Primary\u0026\u00261":"file:///usr/share/wallpapers/deepin/manjaro-rez_deepin.jpg","Primary\u0026\u00262":"file:///usr/share/wallpapers/deepin/manjaro-rez_deepin.jpg"}

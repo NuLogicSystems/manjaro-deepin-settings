@@ -6,6 +6,7 @@ pkgver=$(date +%Y.%m)
 pkgrel=1
 pkgdesc="Branding configuration files for the manjaro deepin edition"
 arch=('any')
+depends=('manjaro-deepin-wallpapers' 'deepin-icon-theme-manjaro')
 url='https://github.com/NuLogicSystems/manjaro-deepin-settings'
 license=('GPL')
 

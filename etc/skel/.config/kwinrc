@@ -1,6 +1,0 @@
-[Compositing]
-Enabled=true
-OpenGLIsUnsafe=false
-
-[deepin-chameleon]
-theme=dark/deepin
